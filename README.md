@@ -1,4 +1,3 @@
-# VIBECHAT
 # 💬 VibeChat
 
 ### Connect. Chat. Communicate.
@@ -7,7 +6,7 @@ VibeChat is a modern real-time messaging web application designed to make commun
 
 ## 🌐 Live Demo
 
-🚀 **[Visit VibeChat](https://moonlit-message-room-gj.vercel.app)**
+🚀 **[Visit VibeChat](https://moonlit-message-room.vercel.app/)**
 
 ## ✨ Features
 
